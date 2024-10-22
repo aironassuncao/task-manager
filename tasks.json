@@ -1,0 +1,12 @@
+{
+    "1": {
+        "task": "Fazer compras",
+        "description": "Comprar legumes, frutas e verduras",
+        "completed": true
+    },
+    "2": {
+        "task": "Ir a academia",
+        "description": "ir a academia às 19:00",
+        "completed": false
+    }
+}
